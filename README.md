@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dimas Zulfa Santana
+- 👋 Hi, I’m Dimas Zulfa Santana, i'm usually called by the name Dimas or Sansan
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Kotlin, Dart Programming
 - 📫 dimaszulfa0@gmail.com
