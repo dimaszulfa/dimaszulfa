@@ -1,6 +1,6 @@
 <!-- test -->
 # 💫 About Me:
-👋 Hi, I’m Dimas Zulfa Santana, i'm usually called by the name Dimas or Sansan<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning Kotlin, Dart Programming<br>📫 dimaszulfa0@gmail.com
+👋 Hi, I’m Dimas Zulfa Santana, i'm usually called by the name Dimas or Sansan<br>👀 I’m interested in Software Engineering<br>🌱 I’m currently learning Kotlin, Dart Programming<br>📫 dimaszulfa0@gmail.com<br>💼 https://dimaszulfasantana.netlify.app/
 
 
 ## 🌐 Socials:
